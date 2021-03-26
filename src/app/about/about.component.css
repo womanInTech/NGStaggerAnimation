@@ -1,0 +1,6 @@
+.aboutContainer{
+  display: flex;
+  justify-content: center;
+  margin-top:3rem;
+  font-size: 1.6rem;
+}
